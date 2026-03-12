@@ -22,7 +22,7 @@ An interactive **Excel Sales Dashboard** built using Pivot Tables, Charts, and S
 
 
 ## 📷 Dashboard Preview
-EXAMPLE :![DASHBOARD SCREENSHOT](https://github.com/naman205dubey-byte/STUDENT-SURVEY/blob/main/STUDENT%20SURVEY.png)
+EXAMPLE :![DASHBOARD SCREENSHOT]([https://github.com/naman205dubey-byte/SALES-AND-PROFIT-/blob/main/Screenshot%202026-03-13%20014532.png])
 
 
 ## 👤 Author
